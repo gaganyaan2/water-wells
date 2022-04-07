@@ -1,11 +1,12 @@
 # water-wells
-- Wells were main source of water. Wells were first constructed at least eight thousand years ago
+Wells were main source of water in early days. Wells were first constructed at least eight thousand years ago.
 
 ![well](https://github.com/koolwithk/water-wells/blob/main/image/well.1.1.jpg?raw=true)
 
 ### Water is Essential
 
-
+### History
+River > Well > Hand pump > Motor pump
 
 ### Why water wells are getting extinct?
 - because of better alternative.
