@@ -26,3 +26,10 @@
 ### Refrences:
 - https://en.wikipedia.org/wiki/Well
 - https://www.newindianexpress.com/cities/bengaluru/2019/mar/25/open-wells-go-extinct-as-water-table-plunges-1955482.html
+
+### More wells photos:
+
+![well](https://github.com/koolwithk/water-wells/blob/main/image/well.1.2.jpg?raw=true)
+![well](https://github.com/koolwithk/water-wells/blob/main/image/well.3.1.jpg?raw=true)
+![well](https://github.com/koolwithk/water-wells/blob/main/image/well.2.4..jpg?raw=true)
+![well](https://github.com/koolwithk/water-wells/blob/main/image/well.4.1..jpg?raw=true)
