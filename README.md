@@ -17,8 +17,11 @@
 6. Muddy water during the rainy season
 
 ### is hand pump are better alternative?
+- Yes, It require less work to pull water
+- Less space required
+- Water does not get muddy in rainy season as compare to well
 
-### how do we get drining water from ocean?
+### how do we get drinking water from ocean?
 
 ### Refrences:
 - https://en.wikipedia.org/wiki/Well
