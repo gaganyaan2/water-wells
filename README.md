@@ -34,3 +34,4 @@ River > Well > Hand pump > Motor pump
 ![well](https://github.com/koolwithk/water-wells/blob/main/image/well.3.1.jpg?raw=true)
 ![well](https://github.com/koolwithk/water-wells/blob/main/image/well.2.4..jpg?raw=true)
 ![well](https://github.com/koolwithk/water-wells/blob/main/image/well.4.1..jpg?raw=true)
+![big blue well](https://github.com/koolwithk/water-wells/blob/main/image/big_blue_well/well6.jpg?raw=true)
